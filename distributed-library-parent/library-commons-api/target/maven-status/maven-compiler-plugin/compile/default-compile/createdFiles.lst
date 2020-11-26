@@ -1,0 +1,17 @@
+com\library\pojo\UserBook.class
+com\library\pojo\UserEmail.class
+com\library\pojo\ClickCountHistory.class
+com\library\pojo\User.class
+com\library\utils\JwtUtils.class
+com\library\utils\ConvertJsonToBean.class
+com\library\pojo\Category.class
+com\library\utils\MessageUtils.class
+com\library\config\MyConfig.class
+com\library\pojo\Notice.class
+com\library\pojo\Result.class
+com\library\pojo\Fine.class
+com\library\pojo\ChangePwdForm.class
+com\library\pojo\ResultCode.class
+com\library\utils\Md5Utils.class
+com\library\pojo\Book.class
+com\library\pojo\NoticeUser.class

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/distributed-library.iml" filepath="$PROJECT_DIR$/distributed-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/distributed-library-parent.iml" filepath="$PROJECT_DIR$/distributed-library-parent/distributed-library-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-admin-service/library-admin-service.iml" filepath="$PROJECT_DIR$/distributed-library-parent/library-service/library-admin-service/library-admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-book-service/library-book-service.iml" filepath="$PROJECT_DIR$/distributed-library-parent/library-service/library-book-service/library-book-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-category-service/library-category-service.iml" filepath="$PROJECT_DIR$/distributed-library-parent/library-service/library-category-service/library-category-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/library-commons-api/library-commons-api.iml" filepath="$PROJECT_DIR$/distributed-library-parent/library-commons-api/library-commons-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-elasticSearch-service/library-elasticSearch-service.iml" filepath="$PROJECT_DIR$/distributed-library-parent/library-service/library-elasticSearch-service/library-elasticSearch-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-email-service/library-email-service.iml" filepath="$PROJECT_DIR$/distributed-library-parent/library-service/library-email-service/library-email-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/library-eureka7001/library-eureka7001.iml" filepath="$PROJECT_DIR$/distributed-library-parent/library-eureka7001/library-eureka7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-fileupload-service17001/library-fileupload-service17001.iml" filepath="$PROJECT_DIR$/distributed-library-parent/library-service/library-fileupload-service17001/library-fileupload-service17001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-fine-service/library-fine-service.iml" filepath="$PROJECT_DIR$/distributed-library-parent/library-service/library-fine-service/library-fine-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-message-service/library-message-service.iml" filepath="$PROJECT_DIR$/distributed-library-parent/library-service/library-message-service/library-message-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-service.iml" filepath="$PROJECT_DIR$/distributed-library-parent/library-service/library-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-user-book-service/library-user-book-service.iml" filepath="$PROJECT_DIR$/distributed-library-parent/library-service/library-user-book-service/library-user-book-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-user-service/library-user-service.iml" filepath="$PROJECT_DIR$/distributed-library-parent/library-service/library-user-service/library-user-service.iml" />
+    </modules>
+  </component>
+</project>

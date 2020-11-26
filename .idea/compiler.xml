@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="library-admin-service" />
+        <module name="library-book-service" />
+        <module name="library-category-service" />
+        <module name="library-commons-api" />
+        <module name="library-elasticSearch-service" />
+        <module name="library-email-service" />
+        <module name="library-eureka7001" />
+        <module name="library-fileupload-service17001" />
+        <module name="library-fine-service" />
+        <module name="library-message-service" />
+        <module name="library-user-book-service" />
+        <module name="library-user-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="distributed-library-parent" target="1.8" />
+      <module name="library-admin-service" target="1.8" />
+      <module name="library-book-service" target="1.8" />
+      <module name="library-category-service" target="1.8" />
+      <module name="library-commons-api" target="1.8" />
+      <module name="library-elasticSearch-service" target="1.8" />
+      <module name="library-email-service" target="1.8" />
+      <module name="library-eureka7001" target="1.8" />
+      <module name="library-fileupload-service17001" target="1.8" />
+      <module name="library-fine-service" target="1.8" />
+      <module name="library-lend-return-service" target="1.8" />
+      <module name="library-message-service" target="1.8" />
+      <module name="library-service" target="1.8" />
+      <module name="library-user-book-service" target="1.8" />
+      <module name="library-user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

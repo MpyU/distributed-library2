@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/distributed-library-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-commons-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-eureka7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-admin-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-book-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-category-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-elasticSearch-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-email-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-fileupload-service17001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-fine-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-lend-return-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-message-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-user-book-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-library-parent/library-service/library-user-service" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
